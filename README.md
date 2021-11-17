@@ -23,7 +23,7 @@ TODO FOR NEXT VERSION 0.2:
 1. Add more Error Codes to url check
 2. More user friendly (isnt it already? DUUH)
 3. Polish code (remove eye cancer)
-4. Add Output file (only 200 urls)
+4. Add Output file (only 200 status_code urls)
 
 TODO FOR NEXT VERSION 0.3:
 1. Add option to output a specific url status code in a txt file (multi selection possible)
