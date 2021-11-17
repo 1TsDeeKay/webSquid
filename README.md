@@ -28,3 +28,7 @@ TODO FOR NEXT VERSION 0.2:
 TODO FOR NEXT VERSION 0.3:
 1. Add option to output a specific url status code in a txt file (multi selection possible)
 2. unkwnown
+
+TODO FOR NEXT VERSION 0.4:
+1. Add save options / make config
+2. auto detect txt files / wordlists
