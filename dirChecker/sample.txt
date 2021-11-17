@@ -1,0 +1,6 @@
+index.php
+index
+login
+login.php
+admin
+admin.php
