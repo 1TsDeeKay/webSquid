@@ -16,22 +16,7 @@ and overall just more advanced options to make it more efficent, and to use the 
 
 
 
-
-
-
-
-
-TODO FOR NEXT VERSION 0.2:
-1. Add more Error Codes to url check
-2. More user friendly (isnt it already? DUUH)
-3. Polish code (remove eye cancer)
-4. Add Output file (only 200 status_code urls)
-
-TODO FOR NEXT VERSION 0.3:
-1. Add option to output a specific url status code in a txt file (multi selection possible)
-2. Add auto Technologie Discovery
-3. unknown
-
 TODO FOR NEXT VERSION 0.4:
 1. Add save options / make config
 2. auto detect txt files / wordlists
+3. unknown
