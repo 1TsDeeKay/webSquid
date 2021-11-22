@@ -1,7 +1,5 @@
 [NEXT UPDATE: TODAY]
 
-DEMO=https://www.youtube.com/watch?v=3SC7L1l8aqE&t=
-
 Hi, at this moment the dirChecker is basic (dirChecker should only be a Module / tool for the next script called webToolKit where many custom scripts are added into and combinated)
 later it will be more advanced with different technologies options like wordpress
 and rate limit evasion, and maybe some attack options
