@@ -1,6 +1,6 @@
 [NEXT UPDATE: TODAY]
 
-Hi, at this moment the dirChecker is basic (dirChecker should only be a Module / tool for the next script called webToolKit where many custom scripts are added into and combinated)
+Hi, WebSquid is a experimental (WIP) webToolKit. and will have in the future auto exploitation. etc
 later it will be more advanced with different technologies options like wordpress
 and rate limit evasion, and maybe some attack options
 and overall just more advanced options to make it more efficent, and to use the best wordlist / combination for the target site.
