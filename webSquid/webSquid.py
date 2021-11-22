@@ -190,6 +190,7 @@ def pluginDiscovery():
     pluginDiscoveryRequest = requests.get(pluginDiscoveryUrl + "sitemap.xml")
     if (isWordPress == True and pluginsWordPress[0] in pluginDiscoveryRequest.text or "WordPress" in openServiceNow4.read() and pluginsWordPress[0] in pluginDiscoveryRequest.text):
         print(Fore.GREEN, pluginsWordPress[0], "Detected", Fore.LIGHTMAGENTA_EX)
+        mainHub()
     else:
         print(Fore.RED, "Sorry, did not find any Plugins, please wait for the next update or contribute to the github and add some check functions")
         mainHub()
