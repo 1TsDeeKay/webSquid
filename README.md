@@ -1,4 +1,4 @@
-[NEXT UPDATE: TODAY]
+(NOT ALL FEATURES IMPLEMENTENT)
 
 Hi, WebSquid is a experimental (WIP) webToolKit. and will have in the future auto exploitation. etc
 later it will be more advanced with different technologies options like wordpress
